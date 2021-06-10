@@ -1,0 +1,1 @@
+Projekt ConferenceApp z Rejestracją/Logowaniem, dodwaniem zdjęcia użytkownika oraz google reCAPTCHA
